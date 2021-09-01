@@ -1,4 +1,4 @@
-# Dracula Theme for [Standard Notes](https://standardnotes.org/)
+# AinaTT Theme for [Standard Notes](https://standardnotes.org/)
 
 > A dark theme for [Standard Notes](https://standardnotes.org/)
 
@@ -8,11 +8,11 @@ The editor used in the screenshot is the [Rich Markdown Editor](https://github.c
 
 ## Install
 
-All instructions can be found at [draculatheme.com/standard-notes](https://draculatheme.com/standard-notes).
+All instructions can be found at [AinaTTtheme.com/Dark-Theme](https://AinaTTtheme.com/Dark-Theme).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/standard-notes/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/AinaTT/Dark-Theme/graphs/contributors).
 
 [![Sly Bouhafs](https://avatars2.githubusercontent.com/u/1410462?s=70&u=fe1625aee7efcd85a64ddabfe4e415151c6be55d&v=4)](https://github.com/slybouhafs) |
 --- |
