@@ -9,7 +9,7 @@
   --orange: #ffb86c;
   --green: #50fa7b;
   --pink: #ff79c6;
-  --purple: #93d8f9;
+  --purple: #f6d0ac;
   --cyan: #8be9fd;
   --yellow: #f1fa8c;
   --sn-component-foreground-color: var(--foreground-color);
@@ -59,4 +59,4 @@
 
 #plus-editor label kbd {
   background-color: var(--sn-stylekit-background-color); }
-/* #c8acf6 */
+/* #c8acf6  azul:93d8f9 */
