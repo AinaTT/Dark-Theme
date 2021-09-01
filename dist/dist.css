@@ -50,7 +50,7 @@
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color); } */
 :root {
-  --foreground-color: #cbcbd0;
+  --foreground-color: #c5c5e7;
   --background-color: #292c3d;
   --highlight-color: #8992c5;
   --border-color: #6272a4;
